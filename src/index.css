@@ -1,0 +1,42 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Mukta', sans-serif;
+}
+
+.form{
+  background-color: lightyellow;
+  width: 50%;
+  margin: 0 auto;
+  padding: 2rem;
+}
+form{
+  border: 1px solid gray;
+  padding: 2rem;
+}
+label,input,img,button,code{
+  margin-inline: 10%;
+}
+code{
+  margin-top: -5rem;
+  color: rgb(255, 0, 0,.7);
+}
+img{
+  font-size: 1rem;
+  margin-inline: 45%;
+  margin-bottom: 1rem;
+}
+input{
+  width:70%;
+   margin-bottom: 1.3rem; 
+  border: 0;
+  outline: 0;
+  background: transparent;
+  padding: .3rem;
+  border-bottom: 2px solid rgb(96, 91, 91);
+}
+button{
+  padding: .4rem 1rem;
+}
+
